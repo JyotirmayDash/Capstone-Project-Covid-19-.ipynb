@@ -28,6 +28,6 @@ FB Prophet is used to forecast active COVID-19 cases, which are essential for as
 This project provides valuable insights into the trends of COVID-19 using Python. By leveraging data cleaning techniques, visualization tools, and FB Prophet for forecasting, we gain a better understanding of the pandemic's impact and potential future outcomes.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- Jyotirmay Dash](https://github.com/JyotirmayDash)
 
 
